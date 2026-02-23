@@ -97,6 +97,7 @@ This dashboard is suitable for:
 
 ## 📬 Contact
 For questions, feedback, or collaboration, feel free to connect.
+
 Author: Jiivanand
 
 GitHub: https://github.com/Jiivanand
